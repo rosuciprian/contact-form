@@ -415,8 +415,15 @@ strong {
   -webkit-animation: planning 3s linear;
   animation: planning 3s linear;
 }
+
 .programming {
-  width: 80%;
+	width: 80%;
+	-webkit-animation: programming 3s linear;
+	animation: programming 3s linear;
+}
+
+.provisioning {
+  width: 0%;
   -webkit-animation: programming 3s linear;
   animation: programming 3s linear;
 }
